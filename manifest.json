@@ -1,0 +1,14 @@
+{
+    "name":"voice control",
+    "version":"1.0",
+    "description":"make it easy",
+    "manifest_version":2,
+    "browser_action":{
+        "default_icon":"code.png",
+        "default_title":"hello",
+        "default_popup":"index.html"
+    },
+    "permissions":[
+        "storage"
+    ]
+}
